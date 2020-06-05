@@ -1,0 +1,14 @@
+silent
+#progress-bar
+head
+#verbose
+#location
+#url = https://blank.org
+header = "Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*"
+header = "Accept-Language: en-us"
+#header = "Accept-Encoding: gzip, deflate"
+header = "Connection: Keep-Alive
+user-agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19582"
+referer = "https://duckduckgo.com/?t=ffab&q=blank&ia=web"
+#trace-ascii
+output = temp.tmp
