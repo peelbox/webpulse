@@ -1,7 +1,7 @@
 Description: 
     Small routine to check http codes of webpages listed in a textfile by using cURL
 Use:
-    cmd$ webpulse.bat >> foo.json
+    cmd$ webpulse.bat >> foo.csv
 
 
 Common Http Codes
