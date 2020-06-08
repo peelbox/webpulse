@@ -1,1 +1,1 @@
-{"code":"%{response_code}","url":"%{url_effective}","remote_ip":"%{remote_ip}","total_time":"%{time_total}"}\n
+%{url_effective},%{remote_ip},%{response_code},%{time_total}\n
